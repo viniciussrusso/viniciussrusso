@@ -9,6 +9,7 @@
 
 I am a second year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Facebook in Dublin. I am always interested in learning new programming languages and improving my skills. 
 
+<br><br>
 - 🔭 I’m currently working on college projects
 - 🌱 I’m currently learning PHP, Java, NodeJS, JavaScript
 - 💬 Ask me about **Java**, **HTML** and **CSS**
