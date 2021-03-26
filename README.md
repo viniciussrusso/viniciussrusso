@@ -7,4 +7,4 @@
 
 Hello, welcome to my GitHub! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciiussrusso&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussrusso&layout=compact)
