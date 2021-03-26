@@ -12,6 +12,9 @@ I am a second year student pursuing BSc Honours Computing **[@NCI National Colle
 - 🔭 I’m currently working on college projects
 - 🌱 I’m currently learning PHP, Java, NodeJS, JavaScript
 - 💬 Ask me about **Java**, **HTML** and **CSS**
+- ☄️ Fast learner  
+- 🤟 I love programming, nature and music
+- 🌿 I am vegan
 
 
 <br><br>
