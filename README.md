@@ -5,7 +5,7 @@
 
 -->
 
-# Hello, welcome to my GitHub! <img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wave.gif" width="30px"><br>
+<h1 align="center"># Hello, welcome to my GitHub! ✌🏼<br></h1>
 
 I am a second year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** 
 
