@@ -9,6 +9,10 @@
 
 I am a second year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** 
 
+- 🔭 I’m currently working on college projects
+- 🌱 I’m currently learning PHP, Java, NodeJS, JavaScript
+- 💬 Ask me about **Java**, **HTML** **CSS*
+
 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/viniciussrusso) 
