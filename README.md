@@ -5,6 +5,7 @@
 
 -->
 
-Hello, welcome to my GitHub! 👋
+Hello, welcome to my GitHub! <img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wave.gif" width="30px"><br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussrusso&layout=compact)
