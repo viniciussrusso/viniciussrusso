@@ -17,6 +17,7 @@ I am a second year student pursuing BSc Honours Computing **[@NCI National Colle
 - 🤟 I love programming, nature and music
 - 🌿 I am vegan
 
+Visit my Portfolio https://viniciussrusso.github.io/portfolio/ [Visit my Portfolio](https://viniciussrusso.github.io/portfolio/)
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussrusso&layout=compact)
