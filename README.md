@@ -12,7 +12,7 @@
 <br><br>
 
 - 🔭 I’m currently working on college projects
-- 🌱 I’m currently learning PHP, Java, NodeJS, JavaScript
+- 🌱 I’m currently learning React, Javascript, NodeJS
 - 💬 Ask me about **Java**, **HTML** and **CSS**
 - ☄️ Fast learner  
 - 🤟 I love programming, nature and music
