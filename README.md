@@ -7,7 +7,7 @@
 
 <h1 align="center"># Hello, welcome to my GitHub! ✌🏼<br></h1>
 
-3rd year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Facebook in Dublin. I am always interested in learning new programming languages and improving my skills. 
+3rd year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Covalen in Dublin. I am always interested in learning new programming languages and improving my skills. 
 
 <br><br>
 
