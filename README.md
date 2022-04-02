@@ -16,7 +16,7 @@
 - 💬 Ask me about **Java**, **HTML** and **CSS**
 - ☄️ Fast learner  
 - 🤟 I love programming, nature and music
-- 🌿 I am vegan
+
 
 <br><br>
 
