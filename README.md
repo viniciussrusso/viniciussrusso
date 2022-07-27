@@ -7,15 +7,14 @@
 
 <h1 align="center"># Hello, welcome to my GitHub! ✌🏼<br></h1>
 
-3rd year student pursuing BSc Honours Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Covalen in Dublin. I am always interested in learning new programming languages and improving my skills. 
+BSc Computing graduate **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Covalen in Dublin, Ireland. Keen interest in React.js, Redux and React Native. 
 
 <br><br>
 
-- 🔭 I’m currently working on college projects
 - 🌱 I’m currently learning MongoDB, Express, React, and Node.js
 - 💬 Ask me about **Java**, **HTML** and **CSS**
 - ☄️ Fast learner  
-- 🤟 I love programming, nature and music
+- 🤟 I love programming, nature, and music
 
 
 <br><br>
