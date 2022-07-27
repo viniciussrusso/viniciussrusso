@@ -12,9 +12,9 @@ BSc Computing graduate **[@NCI National College Of Ireland](https://www.ncirl.ie
 <br><br>
 
 - 🌱 I’m currently learning MongoDB, Express, React, and Node.js
-- 💬 Ask me about **Java**, **HTML** and **CSS**
 - ☄️ Fast learner  
 - 🤟 I love programming, nature, and music
+- 💬 Ask me about **HTML**, **CSS**, and **Bootstrap**
 
 
 <br><br>
