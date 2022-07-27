@@ -7,7 +7,7 @@
 
 <h1 align="center"># Hello, welcome to my GitHub! ✌🏼<br></h1>
 
-BSc Computing graduate **[@NCI National College Of Ireland](https://www.ncirl.ie/)** Currently working as an Operation Operation Analyst at Covalen in Dublin, Ireland. Keen interest in React.js, Redux and React Native. 
+BSc Computing graduate **[@NCI National College Of Ireland](https://www.ncirl.ie/)**. Currently working as an Operation Operation Analyst at Covalen in Dublin, Ireland. Keen interest in React.js, Redux and React Native. 
 
 <br><br>
 
