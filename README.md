@@ -19,7 +19,7 @@ BSc Computing graduate **[@NCI National College Of Ireland](https://www.ncirl.ie
 
 <br><br>
 
-[Visit my Portfolio here!](https://viniciussrusso.github.io/portfolio/)
+
 
 <br><br>
 
