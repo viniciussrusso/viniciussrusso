@@ -52,14 +52,13 @@ Check out my portfolio -> [**HERE**](https://viniciussrusso.github.io/react-port
                 <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/mongodb.png">
                 <img height="38" width="38" src="https://cdn.svgporn.com/logos/mysql.svg">
             </td>
-            <td>
-                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussrusso&layout=compact)
-            </td>
         </tr>
     <table>
 </p>    
 
+<br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussrusso&layout=compact)
 
 <br><br>
 
