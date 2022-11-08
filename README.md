@@ -38,18 +38,23 @@ Check out my portfolio -> **[HERE]**(https://viniciussrusso.github.io/react-port
 
 ### ⚙️ These are the technologies I've worked with
 
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/react.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/javascript.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/html.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/node.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/git.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/tailwindcss.svg">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/css.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/bootstrap.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/restapi.png">
-<img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/mongodb.png">
-<img height="38" width="38" src="https://cdn.svgporn.com/logos/mysql.svg">
-
+<table border="0">
+    <tr>
+        <td>
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/react.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/javascript.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/html.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/node.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/git.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/tailwindcss.svg">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/css.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/bootstrap.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/restapi.png">
+            <img height="38" width="38" src="https://github.com/viniciussrusso/viniciussrusso/blob/main/assets/mongodb.png">
+            <img height="38" width="38" src="https://cdn.svgporn.com/logos/mysql.svg">
+        </td>
+    </tr>
+<table>
 
 
 
