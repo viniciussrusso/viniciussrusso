@@ -5,7 +5,7 @@
 
 -->
 
-<h1 align="center">Hi there, welcome to my GitHub! ✌🏼<br></h1>
+<h1 align="center">Hi there, welcome to my GitHub! ✌🏼</h1>
 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/viniciussrusso) 
