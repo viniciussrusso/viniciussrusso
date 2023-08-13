@@ -30,7 +30,7 @@ I am a BSc Computing graduate **[@NCI National College Of Ireland](https://www.n
 
 
 
-Check out my portfolio -> [**HERE**](https://viniciussrusso.github.io/react-portfolio/)
+Check out my portfolio -> [**HERE**](https://viniciussrusso.github.io/portfolio/)
 
 
 <br><br>
